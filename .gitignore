@@ -1,0 +1,22 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VM images, ISOs — keep these OUT of GitHub
+*.vdi
+*.vmdk
+*.vhd
+*.iso
+*.ova
+*.ovf
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/

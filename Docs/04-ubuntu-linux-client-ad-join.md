@@ -1,4 +1,3 @@
-```markdown
 # 04 – Ubuntu Desktop Linux Client AD Join (`project-x-linux-client`)
 
 (Condensed but faithful version of your Winbind/Kerberos steps.)

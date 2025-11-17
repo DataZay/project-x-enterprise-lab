@@ -1,4 +1,3 @@
-```markdown
 # 07 – Wazuh Setup (Ubuntu) & Windows Agent
 
 ## 1. Wazuh Server Install on Ubuntu

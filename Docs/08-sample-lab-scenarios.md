@@ -1,4 +1,3 @@
-```markdown
 # 08 – Sample Lab Scenarios
 
 Use these to demonstrate hands-on experience on your resume and in interviews.

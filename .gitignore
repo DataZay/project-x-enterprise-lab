@@ -1,0 +1,24 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Virtual machine images / ISOs (do NOT commit these)
+*.iso
+*.vdi
+*.vmdk
+*.ova
+*.ovf
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Docker
+.env
